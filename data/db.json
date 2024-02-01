@@ -8,28 +8,13 @@
   ],
   "heroes": [
     {
-      "id": "dc-batman",
-      "superhero": "Batman",
-      "publisher": "DC Comics",
-      "alter_ego": "Bruce Wayne",
-      "first_appearance": "Detective Comics #27",
-      "characters": "Bruce Wayne"
-    },
-    {
-      "id": "dc-superman",
-      "superhero": "Superman",
-      "publisher": "DC Comics",
-      "alter_ego": "Kal-El",
-      "first_appearance": "Action Comics #1",
-      "characters": "Kal-El"
-    },
-    {
       "id": "dc-flash",
       "superhero": "Flash",
       "publisher": "DC Comics",
       "alter_ego": "Jay Garrick",
       "first_appearance": "Flash Comics #1",
-      "characters": "Jay Garrick, Barry Allen, Wally West, Bart Allen"
+      "characters": "Jay Garrick, Barry Allen, Wally West, Bart Allen",
+      "alt_img": null
     },
     {
       "id": "dc-green",
@@ -166,6 +151,33 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
+    },
+    {
+      "id": "W6dDICh",
+      "superhero": "Diego",
+      "publisher": "Marvel Comics",
+      "alter_ego": "lafayetes",
+      "first_appearance": "Gaming 1997 #1",
+      "characters": "Diego",
+      "alt_img": "https://i.blogs.es/e7bc3d/what-if/1366_2000.jpeg"
+    },
+    {
+      "id": "9Yl5IG3",
+      "superhero": "antman zombie",
+      "publisher": "Marvel Comics",
+      "alter_ego": "antman",
+      "first_appearance": "Guardians of the galaxy zombies #1",
+      "characters": "antman",
+      "alt_img": "https://shop.thirdeyecomics.com/cdn/shop/files/marvel-comic-books-incentives-marvel-zombies-black-white-blood-2-1-10-incv-homage-var-75960620776300217-sep230703-39866725040380.jpg"
+    },
+    {
+      "id": "gntzvC4",
+      "superhero": "spidy",
+      "publisher": "Marvel Comics",
+      "alter_ego": "spider",
+      "first_appearance": "Spiderman #1",
+      "characters": "spiderman",
+      "alt_img": "https://i.blogs.es/d0b37c/what-if-los-10-mejores-comics-de-las-lineas-alternativas-de-marvel-2/450_1000.jpeg"
     }
   ]
 }

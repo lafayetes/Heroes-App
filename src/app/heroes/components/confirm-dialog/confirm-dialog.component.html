@@ -1,0 +1,13 @@
+<h1 mat-dialog-title>Are you sure?</h1>
+<div mat-dialog-content>
+  <p>This process can't be undone, you're about to delete {{data.superhero}}</p>
+  <!-- <mat-form-field>
+    <mat-label>Favorite Animal</mat-label>
+    <input matInput [(ngModel)]="data.animal">
+  </mat-form-field> -->
+</div>
+<div mat-dialog-actions class="flex justify-content-between">
+
+    <button mat-button (click)="onNoClick()" >Cancel</button>
+    <button mat-button color="primary" (click)="onConfirm()" cdkFocusInitial>Confirm</button>
+</div>
